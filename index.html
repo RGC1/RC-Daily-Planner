@@ -27,7 +27,9 @@
   </head>
 
   <body>
-    <header>
+
+    <!--Added jumbotron-->
+    <header class="jumbotron bg-primary">
       <h1 class="display-3">Work Day Scheduler</h1>
       <p class="lead">A simple calendar app for scheduling your work day</p>
       <p id="currentDay" class="lead"></p>
@@ -37,6 +39,16 @@
 
     <div class="container">
       <!-- Timeblocks go here -->
+
+      <!-- 1st timeblock for 9AM-->
+      <div id="hour9am" class="row time-block">
+        <div class="col-md-1 hour">
+          9AM
+        </div>
+        <textarea class="col-md-10 description"></textarea>
+        <button class="btn saveBtn col-md-1"> <i class="fas fa-save"></i></button>
+      </div>
+
     </div>
 
 
