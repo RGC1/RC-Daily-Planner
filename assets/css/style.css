@@ -34,7 +34,7 @@ header {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(10, 1, 1);  /* border colour changed from white*/
 }
 
 .hour {
