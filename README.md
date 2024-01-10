@@ -19,6 +19,10 @@ The resources used to complete the task:
 - https://www.freecodecamp.org/news/javascript-date-time-dayjs/
 - https://blog.logrocket.com/localstorage-javascript-complete-guide/#:~:text=Storing%20data%20with%20setItem(),-The%20setItem()&text=The%20key%20can%20be%20referenced,Obaseki%20Nosa%20is%20the%20value.
 
+##Screenshot:
+![app screenshot](./images/Screenshot for webpage.jpg)
+
+
 ##Licence:
 
 Standard MIT Licence
