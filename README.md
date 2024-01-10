@@ -21,6 +21,8 @@ The resources used to complete the task:
 
 ##Screenshot:
 ![app screenshot](./images/Screenshot for webpage.jpg)
+![image](https://github.com/RGC1/RC-Daily-Planner/assets/43244279/532b3c58-0a87-444a-9819-b641e1f2705b)
+
 
 
 ##Licence:
